@@ -9,7 +9,7 @@ const App: React.FC = () => {
       {/* Header Logo - Enlarged */}
       <div className="mb-16 flex justify-center">
         <h1 className="text-6xl font-extrabold tracking-tighter flex items-center">
-          <span className="text-black">Nice</span>
+          <span className="text-blue-600 ml-0.5 flex items-center relative">Nice</span>
           <span className="text-blue-600 ml-0.5 flex items-center relative">
             ll
             <span className="absolute -right-8 -top-1">
